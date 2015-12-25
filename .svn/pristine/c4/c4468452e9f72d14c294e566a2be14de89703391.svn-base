@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "767e1942-28bc-4ad2-8ad2-24185d108248++2494",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++2494" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++2494" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5B0DB4D8-D917-4524-A80B-F2966515A393",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++2494" : "WaterFlowLayout\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WaterFlowLayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WaterFlowLayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/LvZhou",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "767e1942-28bc-4ad2-8ad2-24185d108248++2494"
+    }
+  ]
+}
